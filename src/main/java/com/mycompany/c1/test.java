@@ -21,16 +21,15 @@ public class test {
         C5 X5 = new C5();
         C6 X6 = new C6();*/
         C7 X7 = new C7();
-        C1 a = new C5();
-        C1 b = new C3();
-        C1 c = X7;
-        C4 d = new C7();
-        b = a;
-        b = new C6();
-        c = b;
-        a = b;
-        C4 e;
-        b = new C5();
-        e = (C4) b;
+        // C1 a = new C5();
+        // C1 b = new C3();
+        // C2 c = (C2) a;
+        // C4 d = (C4) new C1();
+        // b = a;
+        // b = new C6();
+        // c =(C2) b;
+        // d= (C4) b;
+        // b = new C5();
+        // C4 e = (C4) b;
     }
     }
